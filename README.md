@@ -1,3 +1,4 @@
 # Devops Course
 
-Git Commit bla bla bla
+Qwiklabs Assignment Screenshots
+![alt text](https://github.com/lixuanguang/nus-devops/blob/master/Screenshot%201.PNG)
